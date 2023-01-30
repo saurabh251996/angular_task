@@ -1,0 +1,20 @@
+.add-product{
+    display: block;
+    margin-left: 35vw;
+    margin-top: 8vw;
+    
+}
+
+.fieldName{
+    display: ruby-text-container;
+    width : 10vw;
+    padding-right: auto;
+}
+
+.form-input{
+    height:22px;
+    font-size:14pt;
+    margin-left: 2vw;
+
+}
+
